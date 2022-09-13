@@ -1,0 +1,18 @@
+<app-navbar></app-navbar>
+<br><br>
+<table class="table" style="width:75%;" align="center">
+    <thead>
+      <tr>
+        <th scope="col">Pharmacy Name</th>
+        <th scope="col">Medicine Name</th>
+        <th scope="col">Supply Count</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let i of supdata">
+        <td>{{i.pharmacyName}}</td>
+        <td>{{i.medicineName}}</td>
+        <td>{{i.supplyCount}}</td>
+      </tr>
+    </tbody>
+  </table>

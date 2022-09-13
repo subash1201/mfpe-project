@@ -1,0 +1,31 @@
+<app-navbar></app-navbar>
+<br><br><br>
+
+<div style="height: 50px;display: flex;justify-content: center;">
+  <input style="width:50%;height:auto;" type="text" placeholder="mm-dd-yyyy" [(ngModel)]="date"/>
+  <button class="btn btn-success" (click)="generatelist()">Submit</button>
+</div>
+<br><br>
+<table class="table" style="width:75%;" align="center">
+    <thead>
+      <tr>
+        <th scope="col">mrName</th>
+        <th scope="col">doctorName</th>
+        <th scope="col">treatingAilment</th>
+        <th scope="col">meetingSlot</th>
+        <th scope="col">dateofMeeting</th>
+        <th scope="col">doctorContactNumber</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let i of list">
+        <td>{{i.mrName}}</td>
+        <td>{{i.doctorName}}</td>
+        <td>{{i.treatingAilment}}</td>
+        <td>{{i.meetingSlot}}</td>
+        <td>{{i.dateofMeeting}}</td>
+        <td>{{i.doctorContactNumber}}</td>
+      </tr>
+    </tbody>
+  </table>
+  

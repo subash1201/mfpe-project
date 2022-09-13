@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pharmacymedicinesupplyapiconfig-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: PharmacyMedicineSupplyApiConfig
+  template:
+    metadata:
+      labels:
+        app: PharmacyMedicineSupplyApiConfig
+    spec:
+      containers:
+      - name: pharmacymedincesupply
+        image: dockcr.azurecr.io/pharmacymedincesupply:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pharmacymedicinesupplyapiconfig
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: PharmacyMedicineSupplyApiConfig

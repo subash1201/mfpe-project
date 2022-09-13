@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pharmasupplyauthorizationapiconfig-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: PharmaSupplyAuthorizationApiConfig
+  template:
+    metadata:
+      labels:
+        app: PharmaSupplyAuthorizationApiConfig
+    spec:
+      containers:
+      - name: authimage
+        image: dockcr.azurecr.io/authimage:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pharmasupplyauthorizationapiconfig
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: PharmaSupplyAuthorizationApiConfig

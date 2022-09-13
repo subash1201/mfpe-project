@@ -1,0 +1,44 @@
+<app-navbar>
+</app-navbar>
+<br><br>
+<table class="table" style="width: 60%;" align="center">
+    <thead class="table-dark">
+      <tr class="table-dark">
+        <th scope="col">Medicine Name</th>
+        <th scope="col">Demand Count</th>
+        <th scope="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr scope="row">
+        <td>Aspirin</td>
+        <td><input type="text" [(ngModel)]="qty" placeholder="Enter Demand Count"></td>
+        <td><button (click)="order('Aspirin')" class="btn btn-success">Order</button></td>
+      </tr>
+      <tr scope="row">
+        <td>Codeine</td>
+        <td><input type="text" [(ngModel)]="qty" placeholder="Enter Demand Count"></td>
+        <td><button (click)="order('Codeine')" class="btn btn-success">Order</button></td>
+      </tr>
+      <tr scope="row">
+        <td>Mifepristone</td>
+        <td><input type="text" [(ngModel)]="qty" placeholder="Enter Demand Count"></td>
+        <td><button (click)="order('Mifepristone')" class="btn btn-success">Order</button></td>
+      </tr>
+      <tr scope="row">
+        <td>Combiflam</td>
+        <td><input type="text" [(ngModel)]="qty" placeholder="Enter Demand Count"></td>
+        <td><button (click)="order('Combiflam')" class="btn btn-success">Order</button></td>
+      </tr>
+      <tr scope="row">
+        <td>Misoprostol</td>
+        <td><input type="text" [(ngModel)]="qty" placeholder="Enter Demand Count"></td>
+        <td><button (click)="order('Misoprostol')" class="btn btn-success">Order</button></td>
+      </tr>
+      <tr scope="row">
+        <td>Cytotec</td>
+        <td><input type="text" [(ngModel)]="qty" placeholder="Enter Demand Count"></td>
+        <td><button (click)="order('Cytotec')" class="btn btn-success">Order</button></td>
+      </tr>
+    </tbody>
+  </table>

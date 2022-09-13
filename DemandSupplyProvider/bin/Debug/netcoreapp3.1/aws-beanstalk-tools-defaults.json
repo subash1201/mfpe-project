@@ -1,0 +1,20 @@
+
+{
+    "region" : "sa-east-1",
+    "configuration" : "Debug",
+    "framework"     : "netcoreapp3.1",
+    "self-contained" : false,
+    "application"    : "DailySharePriceApi",
+    "environment"    : "DailySharePriceApi-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-0c71ad5f2b2034aa8\";\"aws:ec2:vpc,Subnets\"=\"subnet-06728cf32f06aeaad\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.3.3 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "dailysharepriceapi-dev",
+    "instance-type"        : "t3a.medium",
+    "key-pair"             : "cohort",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "apismapleapplication-RecipeBeanstalkServiceRole62B-HCQVI8R0ZOFL",
+    "proxy-server"         : "nginx"
+}

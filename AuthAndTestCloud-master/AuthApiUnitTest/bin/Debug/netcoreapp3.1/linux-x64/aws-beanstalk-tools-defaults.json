@@ -1,0 +1,20 @@
+
+{
+    "region" : "ca-central-1",
+    "configuration" : "Debug",
+    "framework"     : "netcoreapp3.1",
+    "self-contained" : false,
+    "application"    : "PharmaSupplyAuthorizationApi",
+    "environment"    : "PharmaSupplyAuthorizationApi-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-05bb0a1e0a45413d0\";\"aws:ec2:vpc,Subnets\"=\"subnet-026ff71ca157daa0c\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.3.3 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "pharmasupplyauthorizationapi-dev",
+    "instance-type"        : "t3a.medium",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "apismapleapplication-RecipeBeanstalkServiceRole62B-HCQVI8R0ZOFL",
+    "proxy-server"         : "nginx"
+}
