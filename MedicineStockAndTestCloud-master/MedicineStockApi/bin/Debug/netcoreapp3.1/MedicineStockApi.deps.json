@@ -33,7 +33,6 @@
         "dependencies": {
           "Microsoft.CodeCoverage": "16.7.1",
           "Microsoft.Extensions.Logging.Log4Net.AspNetCore": "3.1.5",
-          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.8",
           "Moq": "4.14.7",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Swashbuckle.AspNetCore.Swagger": "5.6.3",
@@ -522,7 +521,6 @@
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {}
         }
       },
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.8": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.0.0",
@@ -3177,13 +3175,6 @@
       "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
-    },
-    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-LXlwvlXetgFg2sqsLCzi+Kd+nV78VrRzy9u6nKU05yx9tcsF9BcLqL/+vtj01Z7RPhp0U8D4Px/bHbyMR9Ddjg==",
-      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.10.8",
-      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sivar\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj": {}
+    "C:\\Users\\Lenovo\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sivar\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj": {
+    "C:\\Users\\Lenovo\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sivar\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj",
         "projectName": "MedicineStockApi",
-        "projectPath": "C:\\Users\\sivar\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj",
-        "packagesPath": "C:\\Users\\sivar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sivar\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\MedicineStockApi.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Downloads\\MedicineStockAndTestCloud-master (1)\\MedicineStockAndTestCloud-master\\MedicineStockApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sivar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,10 +47,6 @@
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
               "version": "[3.1.5, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.10.8, )"
             },
             "Moq": {
               "target": "Package",

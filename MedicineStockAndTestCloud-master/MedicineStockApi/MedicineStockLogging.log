@@ -9,99 +9,1010 @@ INFO  06:06:30 Get Api Initiated
 INFO  06:06:31 Medicine List Returned
 INFO  06:06:31 Medicine Information fetched
 INFO  06:06:31 Medicine Data Returned
-INFO  01:23:25 Starup File started Running
-INFO  01:23:28 Application started. Press Ctrl+C to shut down.
-INFO  01:23:28 Application started. Press Ctrl+C to shut down.
-INFO  01:23:28 Hosting environment: Development
-INFO  01:23:28 Hosting environment: Development
-INFO  01:23:28 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  01:23:28 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  01:23:28 Get Api Initiated
-INFO  01:23:28 Medicine List Returned
-INFO  01:23:28 Medicine Information fetched
-INFO  01:23:28 Medicine Data Returned
-INFO  01:29:59 Starup File started Running
-INFO  01:30:08 Application started. Press Ctrl+C to shut down.
-INFO  01:30:08 Application started. Press Ctrl+C to shut down.
-INFO  01:30:08 Hosting environment: Development
-INFO  01:30:08 Hosting environment: Development
-INFO  01:30:08 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  01:30:08 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  01:30:10 Get Api Initiated
-INFO  01:30:10 Medicine List Returned
-INFO  01:30:11 Medicine Information fetched
-INFO  01:30:11 Medicine Data Returned
-INFO  01:31:06 Get Api Initiated
-INFO  01:31:06 Medicine List Returned
-INFO  01:31:06 Medicine Information fetched
-INFO  01:31:06 Medicine Data Returned
-INFO  01:31:07 Get Api Initiated
-INFO  01:31:07 Medicine List Returned
-INFO  01:31:07 Medicine Information fetched
-INFO  01:31:07 Medicine Data Returned
-INFO  09:43:17 Starup File started Running
-INFO  09:43:30 Application started. Press Ctrl+C to shut down.
-INFO  09:43:30 Application started. Press Ctrl+C to shut down.
-INFO  09:43:30 Hosting environment: Development
-INFO  09:43:30 Hosting environment: Development
-INFO  09:43:30 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  09:43:30 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  09:43:34 Get Api Initiated
-INFO  09:43:34 Medicine List Returned
-INFO  09:43:34 Medicine Information fetched
-INFO  09:43:34 Medicine Data Returned
-INFO  09:47:16 Get Api Initiated
-INFO  09:47:16 Medicine List Returned
-INFO  09:47:16 Medicine Information fetched
-INFO  09:47:16 Medicine Data Returned
-INFO  09:47:17 Get Api Initiated
-INFO  09:47:17 Medicine List Returned
-INFO  09:47:17 Medicine Information fetched
-INFO  09:47:17 Medicine Data Returned
-INFO  09:55:48 Get Api Initiated
-INFO  09:55:48 Medicine List Returned
-INFO  09:55:48 Medicine Information fetched
-INFO  09:55:48 Medicine Data Returned
-INFO  09:56:56 Get Api Initiated
-INFO  09:56:56 Medicine List Returned
-INFO  09:56:56 Medicine Information fetched
-INFO  09:56:56 Medicine Data Returned
-INFO  09:57:42 Get Api Initiated
-INFO  09:57:42 Medicine List Returned
-INFO  09:57:42 Medicine Information fetched
-INFO  09:57:42 Medicine Data Returned
-INFO  01:16:17 Starup File started Running
-INFO  01:16:22 Application started. Press Ctrl+C to shut down.
-INFO  01:16:22 Application started. Press Ctrl+C to shut down.
-INFO  01:16:22 Hosting environment: Development
-INFO  01:16:22 Hosting environment: Development
-INFO  01:16:22 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  01:16:22 Content root path: C:\Users\sivar\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
-INFO  01:16:23 Get Api Initiated
-INFO  01:16:23 Medicine List Returned
-INFO  01:16:23 Medicine Information fetched
-INFO  01:16:23 Medicine Data Returned
-INFO  01:18:56 Get Api Initiated
-INFO  01:18:56 Medicine List Returned
-INFO  01:18:56 Medicine Information fetched
-INFO  01:18:56 Medicine Data Returned
-INFO  01:19:59 Get Api Initiated
-INFO  01:19:59 Medicine List Returned
-INFO  01:19:59 Medicine Information fetched
-INFO  01:19:59 Medicine Data Returned
-INFO  01:23:05 Get Api Initiated
-INFO  01:23:05 Medicine List Returned
-INFO  01:23:05 Medicine Information fetched
-INFO  01:23:05 Medicine Data Returned
-INFO  01:23:59 Get Api Initiated
-INFO  01:23:59 Medicine List Returned
-INFO  01:23:59 Medicine Information fetched
-INFO  01:23:59 Medicine Data Returned
-INFO  01:24:00 Get Api Initiated
-INFO  01:24:00 Medicine List Returned
-INFO  01:24:00 Medicine Information fetched
-INFO  01:24:00 Medicine Data Returned
-INFO  01:24:00 Get Api Initiated
-INFO  01:24:00 Medicine List Returned
-INFO  01:24:00 Medicine Information fetched
-INFO  01:24:00 Medicine Data Returned
+INFO  07:58:58 Starup File started Running
+INFO  07:59:00 Application started. Press Ctrl+C to shut down.
+INFO  07:59:00 Application started. Press Ctrl+C to shut down.
+INFO  07:59:00 Hosting environment: Development
+INFO  07:59:00 Hosting environment: Development
+INFO  07:59:00 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:59:00 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:59:00 Get Api Initiated
+INFO  07:59:00 Medicine List Returned
+INFO  07:59:00 Medicine Information fetched
+INFO  07:59:00 Medicine Data Returned
+INFO  08:00:58 Get Api Initiated
+INFO  08:00:58 Medicine List Returned
+INFO  08:00:58 Medicine Information fetched
+INFO  08:00:58 Medicine Data Returned
+INFO  08:01:29 Get Api Initiated
+INFO  08:01:29 Medicine List Returned
+INFO  08:01:29 Medicine Information fetched
+INFO  08:01:29 Medicine Data Returned
+INFO  08:01:42 Get Api Initiated
+INFO  08:01:42 Medicine List Returned
+INFO  08:01:42 Medicine Information fetched
+INFO  08:01:42 Medicine Data Returned
+INFO  08:01:52 Get Api Initiated
+INFO  08:01:52 Medicine List Returned
+INFO  08:01:52 Medicine Information fetched
+INFO  08:01:52 Medicine Data Returned
+INFO  08:02:52 Get Api Initiated
+INFO  08:02:52 Medicine List Returned
+INFO  08:02:52 Medicine Information fetched
+INFO  08:02:52 Medicine Data Returned
+INFO  08:03:02 Get Api Initiated
+INFO  08:03:02 Medicine List Returned
+INFO  08:03:02 Medicine Information fetched
+INFO  08:03:02 Medicine Data Returned
+INFO  08:37:11 Get Api Initiated
+INFO  08:37:11 Medicine List Returned
+INFO  08:37:11 Medicine Information fetched
+INFO  08:37:11 Medicine Data Returned
+INFO  08:37:16 Get Api Initiated
+INFO  08:37:16 Medicine List Returned
+INFO  08:37:16 Medicine Information fetched
+INFO  08:37:16 Medicine Data Returned
+INFO  08:48:14 Starup File started Running
+INFO  08:48:16 Application started. Press Ctrl+C to shut down.
+INFO  08:48:16 Application started. Press Ctrl+C to shut down.
+INFO  08:48:16 Hosting environment: Development
+INFO  08:48:16 Hosting environment: Development
+INFO  08:48:16 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:48:16 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:48:16 Get Api Initiated
+INFO  08:48:16 Medicine List Returned
+INFO  08:48:16 Medicine Information fetched
+INFO  08:48:16 Medicine Data Returned
+INFO  08:52:16 Starup File started Running
+INFO  08:52:17 Application started. Press Ctrl+C to shut down.
+INFO  08:52:17 Application started. Press Ctrl+C to shut down.
+INFO  08:52:17 Hosting environment: Development
+INFO  08:52:17 Hosting environment: Development
+INFO  08:52:17 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:52:17 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:52:18 Get Api Initiated
+INFO  08:52:18 Medicine List Returned
+INFO  08:52:18 Medicine Information fetched
+INFO  08:52:18 Medicine Data Returned
+INFO  08:57:46 Starup File started Running
+INFO  08:57:51 Application started. Press Ctrl+C to shut down.
+INFO  08:57:51 Application started. Press Ctrl+C to shut down.
+INFO  08:57:51 Hosting environment: Development
+INFO  08:57:51 Hosting environment: Development
+INFO  08:57:51 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:57:51 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:57:53 Get Api Initiated
+INFO  08:57:53 Medicine List Returned
+INFO  08:57:54 Medicine Information fetched
+INFO  08:57:54 Medicine Data Returned
+INFO  10:04:56 Get Api Initiated
+INFO  10:04:56 Medicine List Returned
+INFO  10:04:56 Medicine Information fetched
+INFO  10:04:56 Medicine Data Returned
+INFO  10:05:26 Get Api Initiated
+INFO  10:05:26 Medicine List Returned
+INFO  10:05:26 Medicine Information fetched
+INFO  10:05:26 Medicine Data Returned
+INFO  10:05:32 Get Api Initiated
+INFO  10:05:32 Medicine List Returned
+INFO  10:05:32 Medicine Information fetched
+INFO  10:05:32 Medicine Data Returned
+INFO  10:05:36 Get Api Initiated
+INFO  10:05:36 Medicine List Returned
+INFO  10:05:36 Medicine Information fetched
+INFO  10:05:36 Medicine Data Returned
+INFO  10:39:48 Get Api Initiated
+INFO  10:39:48 Medicine List Returned
+INFO  10:39:48 Medicine Information fetched
+INFO  10:39:48 Medicine Data Returned
+INFO  10:40:37 Get Api Initiated
+INFO  10:40:37 Medicine List Returned
+INFO  10:40:37 Medicine Information fetched
+INFO  10:40:37 Medicine Data Returned
+INFO  09:35:32 Starup File started Running
+INFO  09:35:33 Application started. Press Ctrl+C to shut down.
+INFO  09:35:33 Application started. Press Ctrl+C to shut down.
+INFO  09:35:33 Hosting environment: Development
+INFO  09:35:33 Hosting environment: Development
+INFO  09:35:33 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:35:33 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:35:33 Get Api Initiated
+INFO  09:35:33 Medicine List Returned
+INFO  09:35:33 Medicine Information fetched
+INFO  09:35:33 Medicine Data Returned
+INFO  09:36:30 Get Api Initiated
+INFO  09:36:30 Medicine List Returned
+INFO  09:36:30 Medicine Information fetched
+INFO  09:36:30 Medicine Data Returned
+INFO  09:36:37 Get Api Initiated
+INFO  09:36:37 Medicine List Returned
+INFO  09:36:37 Medicine Information fetched
+INFO  09:36:37 Medicine Data Returned
+INFO  01:45:53 Starup File started Running
+INFO  01:45:55 Application started. Press Ctrl+C to shut down.
+INFO  01:45:55 Application started. Press Ctrl+C to shut down.
+INFO  01:45:55 Hosting environment: Development
+INFO  01:45:55 Hosting environment: Development
+INFO  01:45:55 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  01:45:55 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  01:45:55 Get Api Initiated
+INFO  01:45:55 Medicine List Returned
+INFO  01:45:56 Medicine Information fetched
+INFO  01:45:56 Medicine Data Returned
+INFO  01:46:18 Get Api Initiated
+INFO  01:46:18 Medicine List Returned
+INFO  01:46:18 Medicine Information fetched
+INFO  01:46:18 Medicine Data Returned
+INFO  01:46:31 Get Api Initiated
+INFO  01:46:31 Medicine List Returned
+INFO  01:46:31 Medicine Information fetched
+INFO  01:46:31 Medicine Data Returned
+INFO  01:51:08 Get Api Initiated
+INFO  01:51:08 Medicine List Returned
+INFO  01:51:08 Medicine Information fetched
+INFO  01:51:08 Medicine Data Returned
+INFO  01:51:16 Get Api Initiated
+INFO  01:51:16 Medicine List Returned
+INFO  01:51:16 Medicine Information fetched
+INFO  01:51:16 Medicine Data Returned
+INFO  01:51:53 Get Api Initiated
+INFO  01:51:53 Medicine List Returned
+INFO  01:51:53 Medicine Information fetched
+INFO  01:51:53 Medicine Data Returned
+INFO  01:52:02 Get Api Initiated
+INFO  01:52:02 Medicine List Returned
+INFO  01:52:02 Medicine Information fetched
+INFO  01:52:02 Medicine Data Returned
+INFO  01:52:40 Get Api Initiated
+INFO  01:52:40 Medicine List Returned
+INFO  01:52:40 Medicine Information fetched
+INFO  01:52:40 Medicine Data Returned
+INFO  01:52:46 Get Api Initiated
+INFO  01:52:46 Medicine List Returned
+INFO  01:52:46 Medicine Information fetched
+INFO  01:52:46 Medicine Data Returned
+INFO  01:58:02 Get Api Initiated
+INFO  01:58:02 Medicine List Returned
+INFO  01:58:02 Medicine Information fetched
+INFO  01:58:02 Medicine Data Returned
+INFO  02:01:08 Starup File started Running
+INFO  02:01:09 Application started. Press Ctrl+C to shut down.
+INFO  02:01:09 Application started. Press Ctrl+C to shut down.
+INFO  02:01:09 Hosting environment: Development
+INFO  02:01:09 Hosting environment: Development
+INFO  02:01:09 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:01:09 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:01:10 Get Api Initiated
+INFO  02:01:10 Medicine List Returned
+INFO  02:01:10 Medicine Information fetched
+INFO  02:01:10 Medicine Data Returned
+INFO  02:01:39 Get Api Initiated
+INFO  02:01:39 Medicine List Returned
+INFO  02:01:39 Medicine Information fetched
+INFO  02:01:39 Medicine Data Returned
+INFO  02:03:29 Starup File started Running
+INFO  02:03:30 Application started. Press Ctrl+C to shut down.
+INFO  02:03:30 Application started. Press Ctrl+C to shut down.
+INFO  02:03:30 Hosting environment: Development
+INFO  02:03:30 Hosting environment: Development
+INFO  02:03:30 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:03:30 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:03:30 Get Api Initiated
+INFO  02:03:30 Medicine List Returned
+INFO  02:03:31 Medicine Information fetched
+INFO  02:03:31 Medicine Data Returned
+INFO  02:04:53 Starup File started Running
+INFO  02:04:54 Application started. Press Ctrl+C to shut down.
+INFO  02:04:54 Application started. Press Ctrl+C to shut down.
+INFO  02:04:54 Hosting environment: Development
+INFO  02:04:54 Hosting environment: Development
+INFO  02:04:54 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:04:54 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:04:55 Get Api Initiated
+INFO  02:04:55 Medicine List Returned
+INFO  02:04:55 Medicine Information fetched
+INFO  02:04:55 Medicine Data Returned
+INFO  02:06:34 Starup File started Running
+INFO  02:06:35 Application started. Press Ctrl+C to shut down.
+INFO  02:06:35 Application started. Press Ctrl+C to shut down.
+INFO  02:06:35 Hosting environment: Development
+INFO  02:06:35 Hosting environment: Development
+INFO  02:06:35 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:06:35 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:06:36 Get Api Initiated
+INFO  02:06:36 Medicine List Returned
+INFO  02:06:36 Medicine Information fetched
+INFO  02:06:36 Medicine Data Returned
+INFO  02:17:10 Starup File started Running
+INFO  02:17:11 Application started. Press Ctrl+C to shut down.
+INFO  02:17:11 Application started. Press Ctrl+C to shut down.
+INFO  02:17:11 Hosting environment: Development
+INFO  02:17:11 Hosting environment: Development
+INFO  02:17:11 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:17:11 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:17:12 Get Api Initiated
+INFO  02:17:12 Medicine List Returned
+INFO  02:17:12 Medicine Information fetched
+INFO  02:17:12 Medicine Data Returned
+INFO  02:21:13 Starup File started Running
+INFO  02:21:15 Application started. Press Ctrl+C to shut down.
+INFO  02:21:15 Application started. Press Ctrl+C to shut down.
+INFO  02:21:15 Hosting environment: Development
+INFO  02:21:15 Hosting environment: Development
+INFO  02:21:15 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:21:15 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:21:15 Get Api Initiated
+INFO  02:21:15 Medicine List Returned
+INFO  02:21:15 Medicine Information fetched
+INFO  02:21:15 Medicine Data Returned
+INFO  05:59:44 Starup File started Running
+INFO  05:59:46 Application started. Press Ctrl+C to shut down.
+INFO  05:59:46 Application started. Press Ctrl+C to shut down.
+INFO  05:59:46 Hosting environment: Development
+INFO  05:59:46 Hosting environment: Development
+INFO  05:59:46 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  05:59:46 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  05:59:47 Get Api Initiated
+INFO  05:59:47 Medicine List Returned
+INFO  05:59:47 Medicine Information fetched
+INFO  05:59:47 Medicine Data Returned
+INFO  06:33:15 Starup File started Running
+INFO  06:33:28 Application started. Press Ctrl+C to shut down.
+INFO  06:33:28 Application started. Press Ctrl+C to shut down.
+INFO  06:33:28 Hosting environment: Development
+INFO  06:33:28 Hosting environment: Development
+INFO  06:33:28 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  06:33:28 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  06:33:28 Get Api Initiated
+INFO  06:33:28 Medicine List Returned
+INFO  06:33:29 Medicine Information fetched
+INFO  06:33:29 Medicine Data Returned
+INFO  06:52:42 Starup File started Running
+INFO  06:52:44 Application started. Press Ctrl+C to shut down.
+INFO  06:52:44 Application started. Press Ctrl+C to shut down.
+INFO  06:52:44 Hosting environment: Development
+INFO  06:52:44 Hosting environment: Development
+INFO  06:52:44 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  06:52:44 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  06:52:45 Get Api Initiated
+INFO  06:52:45 Medicine List Returned
+INFO  06:52:45 Medicine Information fetched
+INFO  06:52:45 Medicine Data Returned
+INFO  06:53:17 Get Api Initiated
+INFO  06:53:17 Medicine List Returned
+INFO  06:53:17 Medicine Information fetched
+INFO  06:53:17 Medicine Data Returned
+INFO  06:56:24 Get Api Initiated
+INFO  06:56:24 Medicine List Returned
+INFO  06:56:24 Medicine Information fetched
+INFO  06:56:24 Medicine Data Returned
+INFO  08:50:20 Starup File started Running
+INFO  08:50:25 Application started. Press Ctrl+C to shut down.
+INFO  08:50:25 Application started. Press Ctrl+C to shut down.
+INFO  08:50:25 Hosting environment: Development
+INFO  08:50:25 Hosting environment: Development
+INFO  08:50:25 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:50:25 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:50:26 Get Api Initiated
+INFO  08:50:26 Medicine List Returned
+INFO  08:50:26 Medicine Information fetched
+INFO  08:50:26 Medicine Data Returned
+INFO  08:53:17 Starup File started Running
+INFO  08:53:19 Application started. Press Ctrl+C to shut down.
+INFO  08:53:19 Application started. Press Ctrl+C to shut down.
+INFO  08:53:19 Hosting environment: Development
+INFO  08:53:19 Hosting environment: Development
+INFO  08:53:19 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:53:19 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:53:19 Get Api Initiated
+INFO  08:53:19 Medicine List Returned
+INFO  08:53:20 Medicine Information fetched
+INFO  08:53:20 Medicine Data Returned
+INFO  09:01:05 Starup File started Running
+INFO  09:01:08 Application started. Press Ctrl+C to shut down.
+INFO  09:01:08 Application started. Press Ctrl+C to shut down.
+INFO  09:01:08 Hosting environment: Development
+INFO  09:01:08 Hosting environment: Development
+INFO  09:01:08 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:01:08 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:01:08 Get Api Initiated
+INFO  09:01:08 Medicine List Returned
+INFO  09:01:08 Medicine Information fetched
+INFO  09:01:08 Medicine Data Returned
+INFO  09:02:52 Starup File started Running
+INFO  09:02:58 Application started. Press Ctrl+C to shut down.
+INFO  09:02:58 Application started. Press Ctrl+C to shut down.
+INFO  09:02:58 Hosting environment: Development
+INFO  09:02:58 Hosting environment: Development
+INFO  09:02:58 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:02:58 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:02:59 Get Api Initiated
+INFO  09:02:59 Medicine List Returned
+INFO  09:02:59 Medicine Information fetched
+INFO  09:02:59 Medicine Data Returned
+INFO  09:06:35 Starup File started Running
+INFO  09:06:37 Application started. Press Ctrl+C to shut down.
+INFO  09:06:37 Application started. Press Ctrl+C to shut down.
+INFO  09:06:37 Hosting environment: Development
+INFO  09:06:37 Hosting environment: Development
+INFO  09:06:37 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:06:37 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:06:38 Get Api Initiated
+INFO  09:06:38 Medicine List Returned
+INFO  09:06:38 Medicine Information fetched
+INFO  09:06:38 Medicine Data Returned
+INFO  09:08:56 Starup File started Running
+INFO  09:08:58 Application started. Press Ctrl+C to shut down.
+INFO  09:08:58 Application started. Press Ctrl+C to shut down.
+INFO  09:08:58 Hosting environment: Development
+INFO  09:08:58 Hosting environment: Development
+INFO  09:08:58 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:08:58 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:08:59 Get Api Initiated
+INFO  09:08:59 Medicine List Returned
+INFO  09:08:59 Medicine Information fetched
+INFO  09:08:59 Medicine Data Returned
+INFO  09:18:05 Starup File started Running
+INFO  09:18:07 Application started. Press Ctrl+C to shut down.
+INFO  09:18:07 Application started. Press Ctrl+C to shut down.
+INFO  09:18:07 Hosting environment: Development
+INFO  09:18:07 Hosting environment: Development
+INFO  09:18:07 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:18:07 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:18:07 Get Api Initiated
+INFO  09:18:07 Medicine List Returned
+INFO  09:18:07 Medicine Information fetched
+INFO  09:18:07 Medicine Data Returned
+INFO  09:29:26 Starup File started Running
+INFO  09:29:33 Application started. Press Ctrl+C to shut down.
+INFO  09:29:33 Application started. Press Ctrl+C to shut down.
+INFO  09:29:33 Hosting environment: Development
+INFO  09:29:33 Hosting environment: Development
+INFO  09:29:33 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:29:33 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:29:34 Get Api Initiated
+INFO  09:29:34 Medicine List Returned
+INFO  09:29:34 Medicine Information fetched
+INFO  09:29:34 Medicine Data Returned
+INFO  09:33:05 Starup File started Running
+INFO  09:33:06 Application started. Press Ctrl+C to shut down.
+INFO  09:33:06 Application started. Press Ctrl+C to shut down.
+INFO  09:33:07 Hosting environment: Development
+INFO  09:33:07 Hosting environment: Development
+INFO  09:33:07 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:33:07 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:33:07 Get Api Initiated
+INFO  09:33:07 Medicine List Returned
+INFO  09:33:07 Medicine Information fetched
+INFO  09:33:07 Medicine Data Returned
+INFO  09:41:20 Starup File started Running
+INFO  09:41:23 Application started. Press Ctrl+C to shut down.
+INFO  09:41:23 Application started. Press Ctrl+C to shut down.
+INFO  09:41:23 Hosting environment: Development
+INFO  09:41:23 Hosting environment: Development
+INFO  09:41:23 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:41:23 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:41:23 Get Api Initiated
+INFO  09:41:23 Medicine List Returned
+INFO  09:41:23 Medicine Information fetched
+INFO  09:41:23 Medicine Data Returned
+INFO  09:54:52 Starup File started Running
+INFO  09:54:54 Application started. Press Ctrl+C to shut down.
+INFO  09:54:54 Application started. Press Ctrl+C to shut down.
+INFO  09:54:54 Hosting environment: Development
+INFO  09:54:54 Hosting environment: Development
+INFO  09:54:54 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:54:54 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:54:54 Get Api Initiated
+INFO  09:54:54 Medicine List Returned
+INFO  09:54:54 Medicine Information fetched
+INFO  09:54:54 Medicine Data Returned
+INFO  09:56:32 Get Api Initiated
+INFO  09:56:32 Medicine List Returned
+INFO  09:56:32 Medicine Information fetched
+INFO  09:56:32 Medicine Data Returned
+INFO  09:56:50 Get Api Initiated
+INFO  09:56:50 Medicine List Returned
+INFO  09:56:50 Medicine Information fetched
+INFO  09:56:50 Medicine Data Returned
+INFO  10:03:51 Starup File started Running
+INFO  10:03:54 Application started. Press Ctrl+C to shut down.
+INFO  10:03:54 Application started. Press Ctrl+C to shut down.
+INFO  10:03:54 Hosting environment: Development
+INFO  10:03:54 Hosting environment: Development
+INFO  10:03:54 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:03:54 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:03:54 Get Api Initiated
+INFO  10:03:54 Medicine List Returned
+INFO  10:03:54 Medicine Information fetched
+INFO  10:03:54 Medicine Data Returned
+INFO  10:08:46 Starup File started Running
+INFO  10:08:48 Application started. Press Ctrl+C to shut down.
+INFO  10:08:48 Application started. Press Ctrl+C to shut down.
+INFO  10:08:48 Hosting environment: Development
+INFO  10:08:48 Hosting environment: Development
+INFO  10:08:48 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:08:48 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:08:48 Get Api Initiated
+INFO  10:08:48 Medicine List Returned
+INFO  10:08:48 Medicine Information fetched
+INFO  10:08:48 Medicine Data Returned
+INFO  10:09:29 Get Api Initiated
+INFO  10:09:29 Medicine List Returned
+INFO  10:09:29 Medicine Information fetched
+INFO  10:09:29 Medicine Data Returned
+INFO  10:10:55 Starup File started Running
+INFO  10:10:56 Application started. Press Ctrl+C to shut down.
+INFO  10:10:56 Application started. Press Ctrl+C to shut down.
+INFO  10:10:56 Hosting environment: Development
+INFO  10:10:56 Hosting environment: Development
+INFO  10:10:56 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:10:56 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:10:56 Get Api Initiated
+INFO  10:10:56 Medicine List Returned
+INFO  10:10:57 Medicine Information fetched
+INFO  10:10:57 Medicine Data Returned
+INFO  10:13:40 Starup File started Running
+INFO  10:13:42 Application started. Press Ctrl+C to shut down.
+INFO  10:13:42 Application started. Press Ctrl+C to shut down.
+INFO  10:13:42 Hosting environment: Development
+INFO  10:13:42 Hosting environment: Development
+INFO  10:13:42 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:13:42 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:13:42 Get Api Initiated
+INFO  10:13:42 Medicine List Returned
+INFO  10:13:42 Medicine Information fetched
+INFO  10:13:42 Medicine Data Returned
+INFO  10:14:18 Get Api Initiated
+INFO  10:14:18 Medicine List Returned
+INFO  10:14:18 Medicine Information fetched
+INFO  10:14:18 Medicine Data Returned
+INFO  10:16:06 Starup File started Running
+INFO  10:16:08 Application started. Press Ctrl+C to shut down.
+INFO  10:16:08 Application started. Press Ctrl+C to shut down.
+INFO  10:16:08 Hosting environment: Development
+INFO  10:16:08 Hosting environment: Development
+INFO  10:16:08 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:16:08 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:16:09 Get Api Initiated
+INFO  10:16:09 Medicine List Returned
+INFO  10:16:09 Medicine Information fetched
+INFO  10:16:09 Medicine Data Returned
+INFO  10:17:02 Get Api Initiated
+INFO  10:17:02 Medicine List Returned
+INFO  10:17:02 Medicine Information fetched
+INFO  10:17:02 Medicine Data Returned
+INFO  10:18:09 Starup File started Running
+INFO  10:18:11 Application started. Press Ctrl+C to shut down.
+INFO  10:18:11 Application started. Press Ctrl+C to shut down.
+INFO  10:18:11 Hosting environment: Development
+INFO  10:18:11 Hosting environment: Development
+INFO  10:18:11 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:18:11 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:18:11 Get Api Initiated
+INFO  10:18:11 Medicine List Returned
+INFO  10:18:12 Medicine Information fetched
+INFO  10:18:12 Medicine Data Returned
+INFO  10:18:48 Get Api Initiated
+INFO  10:18:48 Medicine List Returned
+INFO  10:18:48 Medicine Information fetched
+INFO  10:18:48 Medicine Data Returned
+INFO  10:22:58 Starup File started Running
+INFO  10:23:01 Application started. Press Ctrl+C to shut down.
+INFO  10:23:01 Application started. Press Ctrl+C to shut down.
+INFO  10:23:01 Hosting environment: Development
+INFO  10:23:01 Hosting environment: Development
+INFO  10:23:01 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:23:01 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:23:01 Get Api Initiated
+INFO  10:23:01 Medicine List Returned
+INFO  10:23:01 Medicine Information fetched
+INFO  10:23:01 Medicine Data Returned
+INFO  10:23:25 Get Api Initiated
+INFO  10:23:25 Medicine List Returned
+INFO  10:23:25 Medicine Information fetched
+INFO  10:23:25 Medicine Data Returned
+INFO  10:33:33 Get Api Initiated
+INFO  10:33:33 Medicine List Returned
+INFO  10:33:33 Medicine Information fetched
+INFO  10:33:33 Medicine Data Returned
+INFO  10:33:43 Get Api Initiated
+INFO  10:33:43 Medicine List Returned
+INFO  10:33:43 Medicine Information fetched
+INFO  10:33:43 Medicine Data Returned
+INFO  10:43:15 Get Api Initiated
+INFO  10:43:15 Medicine List Returned
+INFO  10:43:15 Medicine Information fetched
+INFO  10:43:15 Medicine Data Returned
+INFO  10:44:47 Get Api Initiated
+INFO  10:44:47 Medicine List Returned
+INFO  10:44:47 Medicine Information fetched
+INFO  10:44:47 Medicine Data Returned
+INFO  10:51:10 Starup File started Running
+INFO  10:51:12 Application started. Press Ctrl+C to shut down.
+INFO  10:51:12 Application started. Press Ctrl+C to shut down.
+INFO  10:51:12 Hosting environment: Development
+INFO  10:51:12 Hosting environment: Development
+INFO  10:51:12 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:51:12 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  10:51:13 Get Api Initiated
+INFO  10:51:13 Medicine List Returned
+INFO  10:51:13 Medicine Information fetched
+INFO  10:51:13 Medicine Data Returned
+INFO  10:51:34 Get Api Initiated
+INFO  10:51:34 Medicine List Returned
+INFO  10:51:34 Medicine Information fetched
+INFO  10:51:34 Medicine Data Returned
+INFO  11:09:26 Get Api Initiated
+INFO  11:09:26 Medicine List Returned
+INFO  11:09:26 Medicine Information fetched
+INFO  11:09:26 Medicine Data Returned
+INFO  11:10:02 Get Api Initiated
+INFO  11:10:02 Medicine List Returned
+INFO  11:10:02 Medicine Information fetched
+INFO  11:10:02 Medicine Data Returned
+INFO  11:10:20 Get Api Initiated
+INFO  11:10:20 Medicine List Returned
+INFO  11:10:20 Medicine Information fetched
+INFO  11:10:20 Medicine Data Returned
+INFO  11:11:13 Get Api Initiated
+INFO  11:11:13 Medicine List Returned
+INFO  11:11:13 Medicine Information fetched
+INFO  11:11:13 Medicine Data Returned
+INFO  11:11:36 Get Api Initiated
+INFO  11:11:36 Medicine List Returned
+INFO  11:11:36 Medicine Information fetched
+INFO  11:11:36 Medicine Data Returned
+INFO  11:13:19 Get Api Initiated
+INFO  11:13:19 Medicine List Returned
+INFO  11:13:19 Medicine Information fetched
+INFO  11:13:19 Medicine Data Returned
+INFO  11:13:49 Get Api Initiated
+INFO  11:13:49 Medicine List Returned
+INFO  11:13:49 Medicine Information fetched
+INFO  11:13:49 Medicine Data Returned
+INFO  11:14:10 Get Api Initiated
+INFO  11:14:10 Medicine List Returned
+INFO  11:14:10 Medicine Information fetched
+INFO  11:14:10 Medicine Data Returned
+INFO  11:14:10 Get Api Initiated
+INFO  11:14:10 Medicine List Returned
+INFO  11:14:10 Medicine Information fetched
+INFO  11:14:10 Medicine Data Returned
+INFO  11:14:37 Get Api Initiated
+INFO  11:14:37 Medicine List Returned
+INFO  11:14:37 Medicine Information fetched
+INFO  11:14:37 Medicine Data Returned
+INFO  11:14:37 Get Api Initiated
+INFO  11:14:37 Medicine List Returned
+INFO  11:14:37 Medicine Information fetched
+INFO  11:14:37 Medicine Data Returned
+INFO  11:16:58 Get Api Initiated
+INFO  11:16:58 Medicine List Returned
+INFO  11:16:58 Medicine Information fetched
+INFO  11:16:58 Medicine Data Returned
+INFO  11:16:58 Get Api Initiated
+INFO  11:16:58 Medicine List Returned
+INFO  11:16:58 Medicine Information fetched
+INFO  11:16:58 Medicine Data Returned
+INFO  11:19:18 Starup File started Running
+INFO  11:19:19 Application started. Press Ctrl+C to shut down.
+INFO  11:19:19 Application started. Press Ctrl+C to shut down.
+INFO  11:19:19 Hosting environment: Development
+INFO  11:19:19 Hosting environment: Development
+INFO  11:19:19 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:19:19 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:19:19 Get Api Initiated
+INFO  11:19:19 Medicine List Returned
+INFO  11:19:19 Medicine Information fetched
+INFO  11:19:19 Medicine Data Returned
+INFO  12:10:46 Starup File started Running
+INFO  12:10:47 Application started. Press Ctrl+C to shut down.
+INFO  12:10:47 Application started. Press Ctrl+C to shut down.
+INFO  12:10:47 Hosting environment: Development
+INFO  12:10:47 Hosting environment: Development
+INFO  12:10:47 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:10:47 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:10:47 Get Api Initiated
+INFO  12:10:47 Medicine List Returned
+INFO  12:10:47 Medicine Information fetched
+INFO  12:10:47 Medicine Data Returned
+INFO  12:22:57 Get Api Initiated
+INFO  12:22:57 Medicine List Returned
+INFO  12:22:57 Medicine Information fetched
+INFO  12:22:57 Medicine Data Returned
+INFO  12:23:12 Get Api Initiated
+INFO  12:23:12 Medicine List Returned
+INFO  12:23:12 Medicine Information fetched
+INFO  12:23:12 Medicine Data Returned
+INFO  12:25:44 Get Api Initiated
+INFO  12:25:44 Medicine List Returned
+INFO  12:25:44 Medicine Information fetched
+INFO  12:25:44 Medicine Data Returned
+INFO  12:26:32 Get Api Initiated
+INFO  12:26:32 Medicine List Returned
+INFO  12:26:32 Medicine Information fetched
+INFO  12:26:32 Medicine Data Returned
+INFO  12:27:22 Starup File started Running
+INFO  12:27:23 Application started. Press Ctrl+C to shut down.
+INFO  12:27:23 Application started. Press Ctrl+C to shut down.
+INFO  12:27:23 Hosting environment: Development
+INFO  12:27:23 Hosting environment: Development
+INFO  12:27:23 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:27:23 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:27:23 Get Api Initiated
+INFO  12:27:23 Medicine List Returned
+INFO  12:27:23 Medicine Information fetched
+INFO  12:27:23 Medicine Data Returned
+INFO  12:27:49 Starup File started Running
+INFO  12:27:49 Application started. Press Ctrl+C to shut down.
+INFO  12:27:49 Application started. Press Ctrl+C to shut down.
+INFO  12:27:49 Hosting environment: Development
+INFO  12:27:49 Hosting environment: Development
+INFO  12:27:49 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:27:49 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:27:49 Get Api Initiated
+INFO  12:27:49 Medicine List Returned
+INFO  12:27:49 Medicine Information fetched
+INFO  12:27:49 Medicine Data Returned
+INFO  12:30:29 Get Api Initiated
+INFO  12:30:29 Medicine List Returned
+INFO  12:30:29 Medicine Information fetched
+INFO  12:30:29 Medicine Data Returned
+INFO  01:53:31 Starup File started Running
+INFO  01:53:31 Application started. Press Ctrl+C to shut down.
+INFO  01:53:31 Application started. Press Ctrl+C to shut down.
+INFO  01:53:31 Hosting environment: Development
+INFO  01:53:31 Hosting environment: Development
+INFO  01:53:31 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  01:53:31 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  01:53:32 Get Api Initiated
+INFO  01:53:32 Medicine List Returned
+INFO  01:53:32 Medicine Information fetched
+INFO  01:53:32 Medicine Data Returned
+INFO  01:55:20 Get Api Initiated
+INFO  01:55:20 Medicine List Returned
+INFO  01:55:20 Medicine Information fetched
+INFO  01:55:20 Medicine Data Returned
+INFO  01:55:21 Get Api Initiated
+INFO  01:55:21 Medicine List Returned
+INFO  01:55:21 Medicine Information fetched
+INFO  01:55:21 Medicine Data Returned
+INFO  02:02:19 Starup File started Running
+INFO  02:02:20 Application started. Press Ctrl+C to shut down.
+INFO  02:02:20 Application started. Press Ctrl+C to shut down.
+INFO  02:02:20 Hosting environment: Development
+INFO  02:02:20 Hosting environment: Development
+INFO  02:02:20 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:02:20 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:02:21 Get Api Initiated
+INFO  02:02:21 Medicine List Returned
+INFO  02:02:21 Medicine Information fetched
+INFO  02:02:21 Medicine Data Returned
+INFO  02:03:46 Get Api Initiated
+INFO  02:03:46 Medicine List Returned
+INFO  02:03:46 Medicine Information fetched
+INFO  02:03:46 Medicine Data Returned
+INFO  02:36:20 Starup File started Running
+INFO  02:36:21 Application started. Press Ctrl+C to shut down.
+INFO  02:36:21 Application started. Press Ctrl+C to shut down.
+INFO  02:36:21 Hosting environment: Development
+INFO  02:36:21 Hosting environment: Development
+INFO  02:36:21 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:36:21 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  02:36:21 Get Api Initiated
+INFO  02:36:21 Medicine List Returned
+INFO  02:36:21 Medicine Information fetched
+INFO  02:36:21 Medicine Data Returned
+INFO  07:31:43 Starup File started Running
+INFO  07:31:44 Application started. Press Ctrl+C to shut down.
+INFO  07:31:44 Application started. Press Ctrl+C to shut down.
+INFO  07:31:44 Hosting environment: Development
+INFO  07:31:44 Hosting environment: Development
+INFO  07:31:44 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:31:44 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:31:44 Get Api Initiated
+INFO  07:31:44 Medicine List Returned
+INFO  07:31:44 Medicine Information fetched
+INFO  07:31:44 Medicine Data Returned
+INFO  07:33:34 Get Api Initiated
+INFO  07:33:34 Medicine List Returned
+INFO  07:33:34 Medicine Information fetched
+INFO  07:33:34 Medicine Data Returned
+INFO  07:53:40 Get Api Initiated
+INFO  07:53:40 Medicine List Returned
+INFO  07:53:40 Medicine Information fetched
+INFO  07:53:40 Medicine Data Returned
+INFO  07:53:40 Get Api Initiated
+INFO  07:53:40 Medicine List Returned
+INFO  07:53:40 Medicine Information fetched
+INFO  07:53:40 Medicine Data Returned
+INFO  07:54:49 Get Api Initiated
+INFO  07:54:49 Medicine List Returned
+INFO  07:54:49 Medicine Information fetched
+INFO  07:54:49 Medicine Data Returned
+INFO  07:54:49 Get Api Initiated
+INFO  07:54:49 Medicine List Returned
+INFO  07:54:49 Medicine Information fetched
+INFO  07:54:49 Medicine Data Returned
+INFO  08:09:31 Get Api Initiated
+INFO  08:09:31 Medicine List Returned
+INFO  08:09:31 Medicine Information fetched
+INFO  08:09:31 Medicine Data Returned
+INFO  11:09:42 Starup File started Running
+INFO  11:09:43 Application started. Press Ctrl+C to shut down.
+INFO  11:09:43 Application started. Press Ctrl+C to shut down.
+INFO  11:09:43 Hosting environment: Development
+INFO  11:09:43 Hosting environment: Development
+INFO  11:09:43 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:09:43 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:09:44 Get Api Initiated
+INFO  11:09:44 Medicine List Returned
+INFO  11:09:44 Medicine Information fetched
+INFO  11:09:44 Medicine Data Returned
+INFO  11:15:22 Get Api Initiated
+INFO  11:15:22 Medicine List Returned
+INFO  11:15:22 Medicine Information fetched
+INFO  11:15:22 Medicine Data Returned
+INFO  11:15:22 Get Api Initiated
+INFO  11:15:22 Medicine List Returned
+INFO  11:15:22 Medicine Information fetched
+INFO  11:15:22 Medicine Data Returned
+INFO  04:01:41 Starup File started Running
+INFO  04:01:42 Application started. Press Ctrl+C to shut down.
+INFO  04:01:42 Application started. Press Ctrl+C to shut down.
+INFO  04:01:42 Hosting environment: Development
+INFO  04:01:42 Hosting environment: Development
+INFO  04:01:42 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  04:01:42 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  04:01:42 Get Api Initiated
+INFO  04:01:42 Medicine List Returned
+INFO  04:01:42 Medicine Information fetched
+INFO  04:01:42 Medicine Data Returned
+INFO  04:04:34 Get Api Initiated
+INFO  04:04:34 Medicine List Returned
+INFO  04:04:34 Medicine Information fetched
+INFO  04:04:34 Medicine Data Returned
+INFO  08:06:03 Starup File started Running
+INFO  08:06:04 Application started. Press Ctrl+C to shut down.
+INFO  08:06:04 Application started. Press Ctrl+C to shut down.
+INFO  08:06:04 Hosting environment: Development
+INFO  08:06:04 Hosting environment: Development
+INFO  08:06:04 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:06:04 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  08:06:04 Get Api Initiated
+INFO  08:06:04 Medicine List Returned
+INFO  08:06:04 Medicine Information fetched
+INFO  08:06:04 Medicine Data Returned
+INFO  08:10:47 Get Api Initiated
+INFO  08:10:47 Medicine List Returned
+INFO  08:10:47 Medicine Information fetched
+INFO  08:10:47 Medicine Data Returned
+INFO  08:10:48 Get Api Initiated
+INFO  08:10:48 Medicine List Returned
+INFO  08:10:48 Medicine Information fetched
+INFO  08:10:48 Medicine Data Returned
+INFO  08:13:16 Get Api Initiated
+INFO  08:13:16 Medicine List Returned
+INFO  08:13:16 Medicine Information fetched
+INFO  08:13:16 Medicine Data Returned
+INFO  04:40:04 Starup File started Running
+INFO  04:40:05 Application started. Press Ctrl+C to shut down.
+INFO  04:40:05 Application started. Press Ctrl+C to shut down.
+INFO  04:40:05 Hosting environment: Development
+INFO  04:40:05 Hosting environment: Development
+INFO  04:40:05 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  04:40:05 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  04:40:06 Get Api Initiated
+INFO  04:40:06 Medicine List Returned
+INFO  04:40:06 Medicine Information fetched
+INFO  04:40:06 Medicine Data Returned
+INFO  04:43:31 Get Api Initiated
+INFO  04:43:31 Medicine List Returned
+INFO  04:43:31 Medicine Information fetched
+INFO  04:43:31 Medicine Data Returned
+INFO  04:45:54 Get Api Initiated
+INFO  04:45:54 Medicine List Returned
+INFO  04:45:54 Medicine Information fetched
+INFO  04:45:54 Medicine Data Returned
+INFO  04:45:59 Get Api Initiated
+INFO  04:45:59 Medicine List Returned
+INFO  04:45:59 Medicine Information fetched
+INFO  04:45:59 Medicine Data Returned
+INFO  09:44:09 Starup File started Running
+INFO  09:44:11 Application started. Press Ctrl+C to shut down.
+INFO  09:44:11 Application started. Press Ctrl+C to shut down.
+INFO  09:44:11 Hosting environment: Development
+INFO  09:44:11 Hosting environment: Development
+INFO  09:44:11 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:44:11 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:44:11 Get Api Initiated
+INFO  09:44:11 Medicine List Returned
+INFO  09:44:11 Medicine Information fetched
+INFO  09:44:11 Medicine Data Returned
+INFO  09:52:42 Starup File started Running
+INFO  09:52:42 Application started. Press Ctrl+C to shut down.
+INFO  09:52:42 Application started. Press Ctrl+C to shut down.
+INFO  09:52:42 Hosting environment: Development
+INFO  09:52:42 Hosting environment: Development
+INFO  09:52:42 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:52:42 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:52:42 Get Api Initiated
+INFO  09:52:42 Medicine List Returned
+INFO  09:52:43 Medicine Information fetched
+INFO  09:52:43 Medicine Data Returned
+INFO  09:53:24 Get Api Initiated
+INFO  09:53:24 Medicine List Returned
+INFO  09:53:24 Medicine Information fetched
+INFO  09:53:24 Medicine Data Returned
+INFO  09:53:24 Get Api Initiated
+INFO  09:53:24 Medicine List Returned
+INFO  09:53:24 Medicine Information fetched
+INFO  09:53:24 Medicine Data Returned
+INFO  11:52:35 Starup File started Running
+INFO  11:52:36 Application started. Press Ctrl+C to shut down.
+INFO  11:52:36 Application started. Press Ctrl+C to shut down.
+INFO  11:52:36 Hosting environment: Development
+INFO  11:52:36 Hosting environment: Development
+INFO  11:52:36 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:52:36 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:52:36 Get Api Initiated
+INFO  11:52:36 Medicine List Returned
+INFO  11:52:36 Medicine Information fetched
+INFO  11:52:36 Medicine Data Returned
+INFO  12:06:34 Get Api Initiated
+INFO  12:06:34 Medicine List Returned
+INFO  12:06:34 Medicine Information fetched
+INFO  12:06:34 Medicine Data Returned
+INFO  12:42:13 Starup File started Running
+INFO  12:42:14 Application started. Press Ctrl+C to shut down.
+INFO  12:42:14 Application started. Press Ctrl+C to shut down.
+INFO  12:42:14 Hosting environment: Development
+INFO  12:42:14 Hosting environment: Development
+INFO  12:42:14 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:42:14 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  12:42:14 Get Api Initiated
+INFO  12:42:14 Medicine List Returned
+INFO  12:42:14 Medicine Information fetched
+INFO  12:42:14 Medicine Data Returned
+INFO  05:15:37 Starup File started Running
+INFO  05:15:38 Application started. Press Ctrl+C to shut down.
+INFO  05:15:38 Application started. Press Ctrl+C to shut down.
+INFO  05:15:38 Hosting environment: Development
+INFO  05:15:38 Hosting environment: Development
+INFO  05:15:38 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  05:15:38 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  05:15:38 Get Api Initiated
+INFO  05:15:38 Medicine List Returned
+INFO  05:15:38 Medicine Information fetched
+INFO  05:15:38 Medicine Data Returned
+INFO  06:36:54 Get Api Initiated
+INFO  06:36:54 Medicine List Returned
+INFO  06:36:54 Medicine Information fetched
+INFO  06:36:54 Medicine Data Returned
+INFO  07:08:51 Starup File started Running
+INFO  07:08:53 Application started. Press Ctrl+C to shut down.
+INFO  07:08:53 Application started. Press Ctrl+C to shut down.
+INFO  07:08:53 Hosting environment: Development
+INFO  07:08:53 Hosting environment: Development
+INFO  07:08:53 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:08:53 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:08:53 Get Api Initiated
+INFO  07:08:53 Medicine List Returned
+INFO  07:08:53 Medicine Information fetched
+INFO  07:08:53 Medicine Data Returned
+INFO  07:11:08 Get Api Initiated
+INFO  07:11:08 Medicine List Returned
+INFO  07:11:08 Medicine Information fetched
+INFO  07:11:08 Medicine Data Returned
+INFO  07:11:09 Get Api Initiated
+INFO  07:11:09 Medicine List Returned
+INFO  07:11:09 Medicine Information fetched
+INFO  07:11:09 Medicine Data Returned
+INFO  07:14:22 Get Api Initiated
+INFO  07:14:22 Medicine List Returned
+INFO  07:14:22 Medicine Information fetched
+INFO  07:14:22 Medicine Data Returned
+INFO  07:24:05 Get Api Initiated
+INFO  07:24:05 Medicine List Returned
+INFO  07:24:05 Medicine Information fetched
+INFO  07:24:05 Medicine Data Returned
+INFO  07:40:22 Starup File started Running
+INFO  07:40:23 Application started. Press Ctrl+C to shut down.
+INFO  07:40:23 Application started. Press Ctrl+C to shut down.
+INFO  07:40:23 Hosting environment: Development
+INFO  07:40:23 Hosting environment: Development
+INFO  07:40:23 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:40:23 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  07:40:23 Get Api Initiated
+INFO  07:40:23 Medicine List Returned
+INFO  07:40:23 Medicine Information fetched
+INFO  07:40:23 Medicine Data Returned
+INFO  07:41:01 Get Api Initiated
+INFO  07:41:01 Medicine List Returned
+INFO  07:41:01 Medicine Information fetched
+INFO  07:41:01 Medicine Data Returned
+INFO  07:41:01 Get Api Initiated
+INFO  07:41:01 Medicine List Returned
+INFO  07:41:01 Medicine Information fetched
+INFO  07:41:01 Medicine Data Returned
+INFO  11:25:37 Starup File started Running
+INFO  11:25:38 Application started. Press Ctrl+C to shut down.
+INFO  11:25:38 Application started. Press Ctrl+C to shut down.
+INFO  11:25:38 Hosting environment: Development
+INFO  11:25:38 Hosting environment: Development
+INFO  11:25:38 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:25:38 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  11:25:38 Get Api Initiated
+INFO  11:25:38 Medicine List Returned
+INFO  11:25:38 Medicine Information fetched
+INFO  11:25:38 Medicine Data Returned
+INFO  09:19:02 Starup File started Running
+INFO  09:19:03 Application started. Press Ctrl+C to shut down.
+INFO  09:19:03 Application started. Press Ctrl+C to shut down.
+INFO  09:19:03 Hosting environment: Development
+INFO  09:19:03 Hosting environment: Development
+INFO  09:19:03 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:19:03 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:19:03 Get Api Initiated
+INFO  09:19:03 Medicine List Returned
+INFO  09:19:03 Medicine Information fetched
+INFO  09:19:03 Medicine Data Returned
+INFO  09:20:47 Starup File started Running
+INFO  09:20:47 Application started. Press Ctrl+C to shut down.
+INFO  09:20:47 Application started. Press Ctrl+C to shut down.
+INFO  09:20:47 Hosting environment: Development
+INFO  09:20:47 Hosting environment: Development
+INFO  09:20:47 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:20:47 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:20:48 Get Api Initiated
+INFO  09:20:48 Medicine List Returned
+INFO  09:20:48 Medicine Information fetched
+INFO  09:20:48 Medicine Data Returned
+INFO  09:23:02 Get Api Initiated
+INFO  09:23:02 Medicine List Returned
+INFO  09:23:02 Medicine Information fetched
+INFO  09:23:02 Medicine Data Returned
+INFO  09:23:02 Get Api Initiated
+INFO  09:23:02 Medicine List Returned
+INFO  09:23:02 Medicine Information fetched
+INFO  09:23:02 Medicine Data Returned
+INFO  09:09:12 Starup File started Running
+INFO  09:09:12 Application started. Press Ctrl+C to shut down.
+INFO  09:09:12 Application started. Press Ctrl+C to shut down.
+INFO  09:09:12 Hosting environment: Development
+INFO  09:09:12 Hosting environment: Development
+INFO  09:09:12 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:09:12 Content root path: C:\Users\Lenovo\Downloads\MedicineStockAndTestCloud-master (1)\MedicineStockAndTestCloud-master\MedicineStockApi
+INFO  09:09:13 Get Api Initiated
+INFO  09:09:13 Medicine List Returned
+INFO  09:09:13 Medicine Information fetched
+INFO  09:09:13 Medicine Data Returned
+INFO  09:18:02 Get Api Initiated
+INFO  09:18:02 Medicine List Returned
+INFO  09:18:02 Medicine Information fetched
+INFO  09:18:02 Medicine Data Returned
+INFO  09:18:24 Get Api Initiated
+INFO  09:18:24 Medicine List Returned
+INFO  09:18:24 Medicine Information fetched
+INFO  09:18:24 Medicine Data Returned
+INFO  09:18:25 Get Api Initiated
+INFO  09:18:25 Medicine List Returned
+INFO  09:18:25 Medicine Information fetched
+INFO  09:18:25 Medicine Data Returned
+INFO  10:22:12 Get Api Initiated
+INFO  10:22:12 Medicine List Returned
+INFO  10:22:12 Medicine Information fetched
+INFO  10:22:12 Medicine Data Returned
+INFO  10:24:30 Get Api Initiated
+INFO  10:24:30 Medicine List Returned
+INFO  10:24:30 Medicine Information fetched
+INFO  10:24:30 Medicine Data Returned
+INFO  10:25:27 Get Api Initiated
+INFO  10:25:27 Medicine List Returned
+INFO  10:25:27 Medicine Information fetched
+INFO  10:25:27 Medicine Data Returned
+INFO  10:25:28 Get Api Initiated
+INFO  10:25:28 Medicine List Returned
+INFO  10:25:28 Medicine Information fetched
+INFO  10:25:28 Medicine Data Returned

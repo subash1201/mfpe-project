@@ -13,8 +13,8 @@ spec:
         app: PharmacyMedicineSupplyApiConfig
     spec:
       containers:
-      - name: pharmacymedincesupply
-        image: dockcr.azurecr.io/pharmacymedincesupply:latest
+      - name: clouddemo
+        image: dockcr.azurecr.io/clouddemo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:

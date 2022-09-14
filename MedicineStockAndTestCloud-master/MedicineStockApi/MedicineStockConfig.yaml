@@ -1,16 +1,16 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: medicinestock
+  name: medicinestockconfig-deployment
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: MedicineStock
+      app: MedicineStockConfig
   template:
     metadata:
       labels:
-        app: MedicineStock
+        app: MedicineStockConfig
     spec:
       containers:
       - name: medicinestock
@@ -24,10 +24,16 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: medicinestock
+  name: medicinestockconfig
 spec:
   type: LoadBalancer
   ports:
   - port: 80
   selector:
-    app: MedicineStock
+    app: MedicineStockConfig
+steps:
+- task: DotNetCoreCLI@3
+  inputs:
+    command: test
+    projects: '**/*Tests/MedicalStockModuleTest.csproj'
+    arguments: '--configuration $(buildConfiguration) --collect "Code coverage"'
